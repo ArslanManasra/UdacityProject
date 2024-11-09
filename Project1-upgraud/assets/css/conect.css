@@ -36,6 +36,12 @@ a {
   width: max-content;
 }
 
+.card-grid-space .card  {
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png');
+  background-repeat: no-repeat;
+  background-position-y: 3px;
+}
+
 .logo-light {
   display: block;
   width: 100%;}
